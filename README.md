@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Shaheer-lab-creator
+- 👀 I’m interested in data analytics, automation, and leveraging psychology in organizational settings.
+- 🌱 I’m currently learning advanced data analysis techniques, including Python for data manipulation and visualization.
+- 💞️ I’m looking to collaborate on projects that intersect data science and process optimization.
+- 📫 How to reach me: You can connect with me via LinkedIn or email me at [shaheer.hassan.0128@gmail.com].
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’ve served 11 years in the military and received the Sword of Honor from the Royal Military College, Australia! HAPPY DAYS
